@@ -1,0 +1,15 @@
+{
+  "name": "daycamp",
+  "version": "1.0.0",
+  "description": "Servidor do DayCamp",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "author": "Arlan Dantas",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {}
+}
