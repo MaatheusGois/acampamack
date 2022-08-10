@@ -1,23 +1,15 @@
 {
-  "name": "acampamack2.0",
+  "name": "daycamp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Servidor do DayCamp",
+  "main": "index.html",
   "scripts": {
-    "start": "node index.js"
+    "start": "live-server ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MaatheusGois/AcampaMack2.0.git"
-  },
-  "keywords": [],
-  "author": "",
+  "author": "Arlan Dantas",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MaatheusGois/AcampaMack2.0/issues"
-  },
-  "homepage": "https://github.com/MaatheusGois/AcampaMack2.0#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {}
 }
